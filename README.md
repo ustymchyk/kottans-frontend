@@ -52,5 +52,11 @@ name (at least) one thing you intend to use in the future
 </ul>
 
 <h2>Intro to HTML and CSS</h2>
+
+<h3>Into to HTML & CSS(udacity)</h3>
 <img src="task_html_css_intro/html_css_intro.png" alt="intro: done">
-<p>Just refresh my knowledge</p>
+<p>Just have refreshed my knowledge</p>
+
+<h3>Learn HTML(Eng)</h3>
+<img src="task_html_css_intro/learn_html.png" alt="lear html: done">
+<p>Just have refreshed my knowledge</p>
