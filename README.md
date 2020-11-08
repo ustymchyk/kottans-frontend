@@ -31,3 +31,12 @@ name (at least) one thing you intend to use in the future
   <li><img src="task_linux_cli/quiz3.png" alt="quiz3"></li>
   <li><img src="task_linux_cli/quiz4.png" alt="quiz4"></li>
 </ul>
+
+<h2>Git Collaboration</h2>
+<h3>GitHub & Collaboration</h3>
+<img src="task_git_collaboration/udacity.png" alt="udacity: done">
+<ul>
+  <li>Setting up two remote repo(origin and uppstream)</li>
+  <li>Git commands has --grep too:)</li>
+  <li>Rebase for squashing by CL. I`ve used for it GITLAB interface before.</li>
+</ul>
