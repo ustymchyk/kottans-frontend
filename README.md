@@ -12,6 +12,7 @@ name (at least) one thing you intend to use in the future
   <li>I`ll use a command-line for git operations to master my skills.</li>
 </ul>
 
+
 <h2>Linux CLI, and HTTP</h2>
 <h3>Linux Survival</h3>
 <ul>
@@ -26,8 +27,26 @@ name (at least) one thing you intend to use in the future
   <li>i think, i have to use all of this</li>
 </ul>
 <ul>
-  <li><img src="task_linux_cli/quiz1.png" alt="quiz1"></li>
-  <li><img src="task_linux_cli/quiz2.png" alt="quiz2"></li>
-  <li><img src="task_linux_cli/quiz3.png" alt="quiz3"></li>
-  <li><img src="task_linux_cli/quiz4.png" alt="quiz4"></li>
+  <li><img src="task_linux_cli/quiz1.png" alt="quiz1 done"></li>
+  <li><img src="task_linux_cli/quiz2.png" alt="quiz2 done"></li>
+  <li><img src="task_linux_cli/quiz3.png" alt="quiz3 done"></li>
+  <li><img src="task_linux_cli/quiz4.png" alt="quiz4 done"></li>
+</ul>
+
+
+<h2>Git Collaboration</h2>
+<h3>GitHub & Collaboration</h3>
+<img src="task_git_collaboration/udacity.png" alt="udacity: done">
+<ul>
+  <li>Setting up two remote repo(origin and uppstream)</li>
+  <li>Git commands has --grep too:)</li>
+  <li>Rebase for squashing by CL. I`ve used for it GITLAB interface before.</li>
+</ul>
+<h3>Learn git branching</h3>
+<img src="task_git_collaboration/learngitbranching-1.png" alt="git branching practice #1 done">
+<img src="task_git_collaboration/learngitbranching-2.png" alt="git branching practice #2 done">
+<ul>
+  <li>Cherry pick</li>
+  <li>Deleting and creating branches with push and fetch</li>
+  <li>Pushing, pulling etc. without checkout.</li>
 </ul>
