@@ -52,5 +52,5 @@ name (at least) one thing you intend to use in the future
 </ul>
 
 <h2>Intro to HTML and CSS</h2>
-<img src="task_html_css_intro/task_html_css_intro.png" alt="intro: done">
+<img src="task_html_css_intro/html_css_intro.png" alt="intro: done">
 <p>Just refresh my knowledge</p>
