@@ -50,3 +50,7 @@ name (at least) one thing you intend to use in the future
   <li>Deleting and creating branches with push and fetch</li>
   <li>Pushing, pulling etc. without checkout.</li>
 </ul>
+
+<h2>Intro to HTML and CSS</h2>
+<img src="task_html_css_intro/task_html_css_intro.png" alt="intro: done">
+<p>Just refresh my knowledge</p>
