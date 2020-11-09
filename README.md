@@ -60,3 +60,7 @@ name (at least) one thing you intend to use in the future
 <h3>Learn HTML(Eng)</h3>
 <img src="task_html_css_intro/learn_html.png" alt="lear html: done">
 <p>Just have refreshed my knowledge</p>
+
+<h3>Learn HTML(Eng)</h3>
+<img src="task_html_css_intro/learn_css.png" alt="lear css: done">
+<p>Just have refreshed my knowledge</p>
