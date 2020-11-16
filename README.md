@@ -64,3 +64,17 @@ name (at least) one thing you intend to use in the future
 <h3>Learn HTML(Eng)</h3>
 <img src="task_html_css_intro/learn_css.png" alt="lear css: done">
 <p>Just have refreshed my knowledge</p>
+
+<h2>Responsive Web Design</h2>
+
+<h3>Responsive Web Design Fundamentals</h3>
+<img src="task_responsive_web_design/udacity.png" alt="Responsive Web Design Fundamentals: done">
+<ul>
+  <li>40x40 - min size for mobile buttons, media attribute in in link tag</li>
+  <li>mark up patterns has names too(column drop, mostly fluid, layout shifter, off canvas)</li>
+  <li>I`ll check if all of the buttons have 40x40px min size on tap devices</li>
+</ul>
+
+<h3>Flexbox Froggy</h3>
+<img src="task_responsive_web_design/froggy.png" alt="Flexbox Froggy done">
+<p>Wrap-reverse - new thing that surprised me that I`m going to use :D</p>
