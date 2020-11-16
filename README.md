@@ -87,3 +87,10 @@ name (at least) one thing you intend to use in the future
   <li>Github pages deployment from picked branch</li>
   <li>Github pages</li>
 </ul>
+
+<h2>JavaScript Basics</h2>
+<ul>
+  <li></li>
+  <li></li>
+  <li></li>
+</ul>
