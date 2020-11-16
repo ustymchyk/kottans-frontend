@@ -76,5 +76,14 @@ name (at least) one thing you intend to use in the future
 </ul>
 
 <h3>Flexbox Froggy</h3>
-<img src="task_responsive_web_design/froggy.png" alt="Flexbox Froggy done">
+<img src="task_responsive_web_design/froggy.png" alt="Flexbox Froggy: done">
 <p>Wrap-reverse - new thing that surprised me that I`m going to use :D</p>
+
+
+<h2>HTML & CSS practice</h2>
+<img src="task_html_css_popup/page.png" alt="HTML & CSS practice: done">
+<ul>
+  <li>How to make label focusable</li>
+  <li>Github pages deployment from picked branch</li>
+  <li>Github pages</li>
+</ul>
