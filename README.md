@@ -99,10 +99,10 @@ name (at least) one thing you intend to use in the future
 <img src="task_js_basics/freecodecamp_int_alg.png" width="500px" alt="intermediate algorithm scripting: done">
 
 
-<p>In general this part form me was about 'done, done, done', but some points was surprising and interesting:</p>
+<p>In general, this part for me was about 'done, done, done', but some points was surprising and interesting:</p>
 <ul>
   <li>I haven`t use destructuring in function parameters before. It`s really comfortable. I`ll definitely use it.</li>
   <li>One more think about destructuring - swiping values between variables. It`s surprised me.</li>
-  <li>Function programming - i heard about it, but haven`t use. It was good practice and knowledge.</li>
+  <li>Function programming - I heard about it, but haven`t used it. It was good practice and knowledge.</li>
   <li>And, the funniest: I`ve always called function parameters as arguments. xD</li>
 </ul>
