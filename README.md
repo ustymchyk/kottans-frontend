@@ -87,3 +87,22 @@ name (at least) one thing you intend to use in the future
   <li>Github pages deployment from picked branch</li>
   <li>Github pages</li>
 </ul>
+
+<h2>JavaScript Basics</h2>
+
+<img src="task_js_basics/udacity.png" width="500px" alt="js basic udacity: done">
+<img src="task_js_basics/freecodecamp_basic.png" width="500px" alt="basic javascript: done">
+<img src="task_js_basics/freecodecamp_basic_alg.png" width="500px" alt="basic algorithm scripting: done">
+<img src="task_js_basics/freecodecamp_data.png" width="500px" alt="basic data structures: done">
+<img src="task_js_basics/freecodecamp_es6.png" width="500px" alt="ES6: done">
+<img src="task_js_basics/freecodecamp_func.png" width="500px" alt="Functional programming: done">
+<img src="task_js_basics/freecodecamp_int_alg.png" width="500px" alt="intermediate algorithm scripting: done">
+
+
+<p>In general, this part for me was about 'done, done, done', but some points was surprising and interesting:</p>
+<ul>
+  <li>I haven`t use destructuring in function parameters before. It`s really comfortable. I`ll definitely use it.</li>
+  <li>One more think about destructuring - swiping values between variables. It`s surprised me.</li>
+  <li>Function programming - I heard about it, but haven`t used it. It was good practice and knowledge.</li>
+  <li>And, the funniest: I`ve always called function parameters as arguments. xD</li>
+</ul>
