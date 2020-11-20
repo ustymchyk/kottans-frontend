@@ -90,13 +90,13 @@ name (at least) one thing you intend to use in the future
 
 <h2>JavaScript Basics</h2>
 
-<img src="task_js_basics/udacity.png" width="150px" alt="js basic udacity: done">
-<img src="task_js_basics/freecodecamp_basic.png" width="150px" alt="basic javascript: done">
-<img src="task_js_basics/freecodecamp_basic_alg.png" width="150px" alt="basic algorithm scripting: done">
-<img src="task_js_basics/freecodecamp_data.png" width="150px" alt="basic data structures: done">
-<img src="task_js_basics/freecodecamp_es6.png" width="150px" alt="ES6: done">
-<img src="task_js_basics/freecodecamp_func.png" width="150px" alt="Functional programming: done">
-<img src="task_js_basics/freecodecamp_int_alg.png" width="150px" alt="intermediate algorithm scripting: done">
+<img src="task_js_basics/udacity.png" width="500px" alt="js basic udacity: done">
+<img src="task_js_basics/freecodecamp_basic.png" width="500px" alt="basic javascript: done">
+<img src="task_js_basics/freecodecamp_basic_alg.png" width="500px" alt="basic algorithm scripting: done">
+<img src="task_js_basics/freecodecamp_data.png" width="500px" alt="basic data structures: done">
+<img src="task_js_basics/freecodecamp_es6.png" width="500px" alt="ES6: done">
+<img src="task_js_basics/freecodecamp_func.png" width="500px" alt="Functional programming: done">
+<img src="task_js_basics/freecodecamp_int_alg.png" width="500px" alt="intermediate algorithm scripting: done">
 
 
 <p>In general this part form me was about 'done, done, done', but some points was surprising and interesting:</p>
