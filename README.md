@@ -106,3 +106,5 @@ name (at least) one thing you intend to use in the future
   <li>Function programming - I heard about it, but haven`t used it. It was good practice and knowledge.</li>
   <li>And, the funniest: I`ve always called function parameters as arguments. xD</li>
 </ul>
+
+<H2>DOM</H2>
