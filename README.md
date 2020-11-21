@@ -108,3 +108,8 @@ name (at least) one thing you intend to use in the future
 </ul>
 
 <H2>DOM</H2>
+<h3>JavaScript and the DOM</h3>
+<img src="task_js_dom/udacity_dom.png" width="500px" alt="JavaScript and the DOM: done">
+<p>Information about interfaces and inheritances was helpful. Now I understand, how to correctly find out methods and properties that I need on MDN.</p>
+<p>The difference between textContent and innerText was surprising. </p>
+<p>The performance part was especially interesting(createDocumentFragment was new for me)</p>
