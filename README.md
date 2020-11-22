@@ -107,9 +107,14 @@ name (at least) one thing you intend to use in the future
   <li>And, the funniest: I`ve always called function parameters as arguments. xD</li>
 </ul>
 
-<H2>DOM</H2>
+<h2>DOM</h2>
 <h3>JavaScript and the DOM</h3>
 <img src="task_js_dom/udacity_dom.png" width="500px" alt="JavaScript and the DOM: done">
 <p>Information about interfaces and inheritances was helpful. Now I understand, how to correctly find out methods and properties that I need on MDN.</p>
 <p>The difference between textContent and innerText was surprising. </p>
 <p>The performance part was especially interesting(createDocumentFragment was new for me)</p>
+
+<h3>Freecodecamp Algorithm Scripting Challenges</h3>
+<img src="task_js_dom/algorithm_int.png" width="500px" alt="Intermediate Algorithm Scripting: done">
+<p>This part was certainly challenging. In this part, I received a lot of new information, like how to find common multiple, convert binary to string, generate primes, etc.</p>
+<p>I think all of this information will be useful in the future.</p>
