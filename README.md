@@ -118,3 +118,7 @@ name (at least) one thing you intend to use in the future
 <img src="task_js_dom/algorithm_int.png" width="500px" alt="Intermediate Algorithm Scripting: done">
 <p>This part was certainly challenging. In this part, I received a lot of new information, like how to find common multiple, convert binary to string, generate primes, etc.</p>
 <p>I think all of this information will be useful in the future.</p>
+
+
+<h2>Object-Oriented JavaScript</h2>
+<h3>Object Oriented JS</h3>
