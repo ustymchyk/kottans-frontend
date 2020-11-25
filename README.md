@@ -113,6 +113,9 @@ name (at least) one thing you intend to use in the future
 <p>Information about interfaces and inheritances was helpful. Now I understand, how to correctly find out methods and properties that I need on MDN.</p>
 <p>The difference between textContent and innerText was surprising. </p>
 <p>The performance part was especially interesting(createDocumentFragment was new for me)</p>
+<p>DOM practice:</p>
+[Demo](https://ustymchyk.github.io/js-dom/) |
+[Code base](https://github.com/ustymchyk/js-dom/tree/master)
 
 <h3>Freecodecamp Algorithm Scripting Challenges</h3>
 <img src="task_js_dom/algorithm_int.png" width="500px" alt="Intermediate Algorithm Scripting: done">
