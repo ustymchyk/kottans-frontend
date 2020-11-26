@@ -122,3 +122,10 @@ name (at least) one thing you intend to use in the future
 
 <h2>Object-Oriented JavaScript</h2>
 <h3>Object Oriented JS</h3>
+<img src="task_js_oop/udacity.png" width="500px" alt="Object Oriented JS: done">
+<p>I`ve known about prototypes before, but a lot of information was new to me.:</p>
+<ul>
+  <li>Object.create() - i used to use 'obj.__proto__' to define prototype chain.</li>
+  <li>'Function Classes' and 'Prototypal Classes' patterns were new for me and helped me to understand a lot..</li>
+  <li>I`ve read about 'PseudoClassical Subclasses' before but never used it. It was good practice.</li>
+</ul> 
