@@ -123,7 +123,9 @@ name (at least) one thing you intend to use in the future
 <h2>Object-Oriented JavaScript</h2>
 <h3>Object Oriented JS</h3>
 <img src="task_js_oop/udacity.png" width="500px" alt="Object Oriented JS: done">
-<img src="https://www.codewars.com/users/ustymchykNazar/badges/large" width="400px" height="40" alt="codewars budget">
+<a href="https://www.codewars.com/users/ustymchyk" target="_blank">
+  <img src="https://www.codewars.com/users/ustymchyk/badges/large" width="400px" height="40" alt="codewars budget">
+</a>
 <p>I`ve known about prototypes before, but a lot of information was new to me.:</p>
 <ul>
   <li>Object.create() - i used to use 'obj.__proto__' to define prototype chain.</li>
