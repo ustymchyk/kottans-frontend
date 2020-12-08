@@ -1,39 +1,56 @@
-<!-- 
-name (at least) one thing that was new to you
-name (at least) one thing that surprised you
-name (at least) one thing you intend to use in the future
--->
-<h1>kottans-frontend</h1>
+# kottans-frontend
 
-<h2>Impressions about learned materials</h2>
-<ul>
-  <li>It was interesting to work with HEAD. In practice, I haven`t worked with it before.</li>
-  <li>Rebase:) I think it`s pretty the same as previous. I`ve heard about it but always use merging. It was a good practice.</li>
-  <li>I`ll use a command-line for git operations to master my skills.</li>
-</ul>
+## Summary
 
+- [x] [Git Basics](#git-basics)
+- [x] [Linux CLI, and HTTP](#linux-cli-and-http)
+- [x] [Git Collaboration](#git-collaboration)
+- [x] [Intro to HTML and CSS](#intro-to-html-and-css)
+- [x] [Responsive Web Design](#responsive-web-design)
+- [x] [HTML & CSS practice](#html-and-css-practice)
+- [x] [JavaScript Basics](#javascript-basics)
+- [x] [Document Object Model](#document-object-model)
+- [x] [Building a Tiny JS World](#building-a-tiny-js-world)
+- [x] [Object-Oriented JavaScript](#object-oriented-javascript)
+- [x] [OOP exercise](#oop-exercise)
+- [x] [Memory Pair Game](#memory-pair-game)
+- [x] [Friends App](#friends-app)
 
-<h2>Linux CLI, and HTTP</h2>
-<h3>Linux Survival</h3>
-<ul>
-  <li>grep, pipe</li>
-  <li>power of combination with 'pipe'</li>
-  <li>ofc. pipe</li>
-</ul>
-<h3>HTTP</h3>
-<ul>
-  <li>request vers as HEAD, TRACE, OPTIONS, cashing</li>
-  <li>really, i don't know, all of that was helpful</li>
-  <li>i think, i have to use all of this</li>
-</ul>
-<ul>
-  <li><img src="task_linux_cli/quiz1.png" alt="quiz1 done"></li>
-  <li><img src="task_linux_cli/quiz2.png" alt="quiz2 done"></li>
-  <li><img src="task_linux_cli/quiz3.png" alt="quiz3 done"></li>
-  <li><img src="task_linux_cli/quiz4.png" alt="quiz4 done"></li>
-</ul>
+## Git Basics
 
+It was interesting to work with HEAD and Rebase. In practice, I haven't worked with it before. Also, some hacks like 'git push origin :some-branch' for deleting a remote branch were new for me. In practice, I used to use 'vscode' git manager, but now I`m using the command line for all GIT operations to improve my skills.
 
+## Linux CLI and HTTP
+
+### Command line
+
+A lot of operators were new to me, but some of them were really impressive and interesting.
+For example, 'grep' with combinations of 'pipe' and '>>' are very powerful.
+
+### Linux
+
+The optional course 'Configuring Linux Web Servers' gave me a full picture from the top of how the web work.
+Also, which Linux folders consist of what. And how Linux managing users, how to find commands etc.
+Very useful part.
+
+### HTTP
+
+Requests types like HEAD, TRACE, OPTIONS were new for me, like HTTP cache too.
+Together with 'Configuring Linux Web Servers' it gave me a view from the top on it.
+
+<details>
+  <summary>
+    Screenshots
+  </summary>
+  
+  ![Quiz1](/task_linux_cli/quiz1.png)
+  ![Quiz2](/task_linux_cli/quiz2.png)
+  ![Quiz3](/task_linux_cli/quiz3.png)
+  ![Quiz4](/task_linux_cli/quiz4.png)
+  ![Configuring Linux Web Servers](/task_linux_cli/web-server.png)
+</details>
+
+<!--
 <h2>Git Collaboration</h2>
 <h3>GitHub & Collaboration</h3>
 <img src="task_git_collaboration/udacity.png" alt="udacity: done">
@@ -79,7 +96,6 @@ name (at least) one thing you intend to use in the future
 <img src="task_responsive_web_design/froggy.png" alt="Flexbox Froggy: done">
 <p>Wrap-reverse - new thing that surprised me that I`m going to use :D</p>
 
-
 <h2>HTML & CSS practice</h2>
 <img src="task_html_css_popup/page.png" alt="HTML & CSS practice: done">
 <ul>
@@ -97,7 +113,6 @@ name (at least) one thing you intend to use in the future
 <img src="task_js_basics/freecodecamp_es6.png" width="500px" alt="ES6: done">
 <img src="task_js_basics/freecodecamp_func.png" width="500px" alt="Functional programming: done">
 <img src="task_js_basics/freecodecamp_int_alg.png" width="500px" alt="intermediate algorithm scripting: done">
-
 
 <p>In general, this part for me was about 'done, done, done', but some points was surprising and interesting:</p>
 <ul>
@@ -122,7 +137,6 @@ name (at least) one thing you intend to use in the future
 <p>This part was certainly challenging. In this part, I received a lot of new information, like how to find common multiple, convert binary to string, generate primes, etc.</p>
 <p>I think all of this information will be useful in the future.</p>
 
-
 <h2>Object-Oriented JavaScript</h2>
 <h3>Object Oriented JS</h3>
 <img src="task_js_oop/udacity.png" width="500px" alt="Object Oriented JS: done">
@@ -134,4 +148,4 @@ name (at least) one thing you intend to use in the future
   <li>Object.create() - i used to use 'obj.__proto__' to define prototype chain.</li>
   <li>'Function Classes' and 'Prototypal Classes' patterns were new for me and helped me to understand a lot..</li>
   <li>I`ve read about 'PseudoClassical Subclasses' before but never used it. It was good practice.</li>
-</ul> 
+</ul> -->
