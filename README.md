@@ -18,7 +18,8 @@
 
 ## Git Basics
 
-It was interesting to work with HEAD and Rebase. In practice, I haven't worked with it before. Also, some hacks like 'git push origin :some-branch' for deleting a remote branch were new for me. In practice, I used to use 'vscode' git manager, but now I`m using the command line for all GIT operations to improve my skills.
+It was interesting to work with HEAD and Rebase. In practice, I haven't worked with it before.
+In practice, I used to use 'vscode' git manager, but now I`m using the command line for all GIT operations to improve my skills.
 
 ## Linux CLI and HTTP
 
@@ -50,102 +51,153 @@ Together with 'Configuring Linux Web Servers' it gave me a view from the top on 
   ![Configuring Linux Web Servers](/task_linux_cli/web-server.png)
 </details>
 
-<!--
-<h2>Git Collaboration</h2>
-<h3>GitHub & Collaboration</h3>
-<img src="task_git_collaboration/udacity.png" alt="udacity: done">
-<ul>
-  <li>Setting up two remote repo(origin and uppstream)</li>
-  <li>Git commands has --grep too:)</li>
-  <li>Rebase for squashing by CL. I`ve used for it GITLAB interface before.</li>
-</ul>
-<h3>Learn git branching</h3>
-<img src="task_git_collaboration/learngitbranching-1.png" alt="git branching practice #1 done">
-<img src="task_git_collaboration/learngitbranching-2.png" alt="git branching practice #2 done">
-<ul>
-  <li>Cherry pick</li>
-  <li>Deleting and creating branches with push and fetch</li>
-  <li>Pushing, pulling etc. without checkout.</li>
-</ul>
+## Git Collaboration
 
-<h2>Intro to HTML and CSS</h2>
+### GitHub & Collaboration
 
-<h3>Into to HTML & CSS(udacity)</h3>
-<img src="task_html_css_intro/html_css_intro.png" alt="intro: done">
-<p>Just have refreshed my knowledge</p>
+All GitHub infrastructure was new for me. I knew about GitHub, a had some repo on it, but wasn't work with it in depth.
+Also, I didn't know about setting up a few remote repositories, like origin and upstream. It is very useful while working with forks.
 
-<h3>Learn HTML(Eng)</h3>
-<img src="task_html_css_intro/learn_html.png" alt="lear html: done">
-<p>Just have refreshed my knowledge</p>
+### Learn git branching
 
-<h3>Learn HTML(Eng)</h3>
-<img src="task_html_css_intro/learn_css.png" alt="lear css: done">
-<p>Just have refreshed my knowledge</p>
+Command 'cherry-pick' was new for me.
+Also, some hacks like 'git push origin :some-branch' for deleting a remote branch were new for me.
+And pushing with pulling without checkout was new.
+In general, this part expanded my knowledge of branching.
 
-<h2>Responsive Web Design</h2>
+<details>
+  <summary>
+    Screenshots
+  </summary>
+  
+  ![git branching practice #1](/task_git_collaboration/learngitbranching-1.png)
+  ![git branching practice #2](/task_git_collaboration/learngitbranching-2.png)
+</details>
 
-<h3>Responsive Web Design Fundamentals</h3>
-<img src="task_responsive_web_design/udacity.png" alt="Responsive Web Design Fundamentals: done">
-<ul>
-  <li>40x40 - min size for mobile buttons, media attribute in in link tag</li>
-  <li>mark up patterns has names too(column drop, mostly fluid, layout shifter, off canvas)</li>
-  <li>I`ll check if all of the buttons have 40x40px min size on tap devices</li>
-</ul>
+## Intro to HTML and CSS
 
-<h3>Flexbox Froggy</h3>
-<img src="task_responsive_web_design/froggy.png" alt="Flexbox Froggy: done">
-<p>Wrap-reverse - new thing that surprised me that I`m going to use :D</p>
+This part wasn't new for me.
+Just have refreshed my knowledge.
 
-<h2>HTML & CSS practice</h2>
-<img src="task_html_css_popup/page.png" alt="HTML & CSS practice: done">
-<ul>
-  <li>How to make label focusable</li>
-  <li>Github pages deployment from picked branch</li>
-  <li>Github pages</li>
-</ul>
+<details>
+  <summary>
+    Screenshots
+  </summary>
+  
+  ![intro](/task_html_css_intro/html_css_intro.png)
+  ![html](/task_html_css_intro/learn_html.png)
+  ![css](/task_html_css_intro/learn_css.pn)
+</details>
 
-<h2>JavaScript Basics</h2>
+## Responsive Web Design
 
-<img src="task_js_basics/udacity.png" width="500px" alt="js basic udacity: done">
-<img src="task_js_basics/freecodecamp_basic.png" width="500px" alt="basic javascript: done">
-<img src="task_js_basics/freecodecamp_basic_alg.png" width="500px" alt="basic algorithm scripting: done">
-<img src="task_js_basics/freecodecamp_data.png" width="500px" alt="basic data structures: done">
-<img src="task_js_basics/freecodecamp_es6.png" width="500px" alt="ES6: done">
-<img src="task_js_basics/freecodecamp_func.png" width="500px" alt="Functional programming: done">
-<img src="task_js_basics/freecodecamp_int_alg.png" width="500px" alt="intermediate algorithm scripting: done">
+### Responsive Web Design Fundamentals
 
-<p>In general, this part for me was about 'done, done, done', but some points was surprising and interesting:</p>
-<ul>
-  <li>I haven`t use destructuring in function parameters before. It`s really comfortable. I`ll definitely use it.</li>
-  <li>One more think about destructuring - swiping values between variables. It`s surprised me.</li>
-  <li>Function programming - I heard about it, but haven`t used it. It was good practice and knowledge.</li>
-  <li>And, the funniest: I`ve always called function parameters as arguments. xD</li>
-</ul>
+Some information was new for me, like min size for mobile buttons, media attribute in the link tag.
+Also, I didn't know that mark up has named patterns(column drop, mostly fluid, layout shifter, off canvas).
 
-<h2>DOM</h2>
-<h3>JavaScript and the DOM</h3>
-<img src="task_js_dom/udacity_dom.png" width="500px" alt="JavaScript and the DOM: done">
-<p>Information about interfaces and inheritances was helpful. Now I understand, how to correctly find out methods and properties that I need on MDN.</p>
-<p>The difference between textContent and innerText was surprising. </p>
-<p>The performance part was especially interesting(createDocumentFragment was new for me)</p>
-<p>DOM practice:</p>
-[Demo](https://ustymchyk.github.io/js-dom/) |
-[Code base](https://github.com/ustymchyk/js-dom/tree/master)
+### Flexbox Froggy
 
-<h3>Freecodecamp Algorithm Scripting Challenges</h3>
-<img src="task_js_dom/algorithm_int.png" width="500px" alt="Intermediate Algorithm Scripting: done">
-<p>This part was certainly challenging. In this part, I received a lot of new information, like how to find common multiple, convert binary to string, generate primes, etc.</p>
-<p>I think all of this information will be useful in the future.</p>
+I've played this game before, but this time I've got new information too.
+And it is a Wrap-reverse.
+Last time I didn't understand how to make the last challenge.
 
-<h2>Object-Oriented JavaScript</h2>
-<h3>Object Oriented JS</h3>
-<img src="task_js_oop/udacity.png" width="500px" alt="Object Oriented JS: done">
+<details>
+  <summary>
+    Screenshots
+  </summary>
+  
+  ![Responsive Web Design Fundamentals](/task_responsive_web_design/udacity.png)
+  ![Flexbox Froggy](/task_responsive_web_design/froggy.png)
+
+</details>
+
+## HTML & CSS practice
+
+[Demo](https://ustymchyk.github.io/html-css-popup/)
+[Codebase](https://github.com/ustymchyk/html-css-popup)
+
+Besides the task, the gh-pages was new for me.
+
+## JavaScript Basics
+
+In general, this part for me was about 'done, done, done', but some points was surprising and interesting:
+
+- I haven't use destructuring in function parameters before. It's really comfortable. I'll definitely use it.
+- One more think about destructuring - swiping values between variables. It's surprised me.
+- Function programming - I heard about it, but haven't used it. It was good practice and knowledge.
+- And, the funniest: I've always called function parameters as arguments. xD
+
+<details>
+  <summary>
+    Screenshots
+  </summary>
+  
+  ![js basic udacity](/task_js_basics/udacity.png)
+  ![basic javascript](/task_js_basics/freecodecamp_basic.png)
+  ![basic algorithm scripting](/task_js_basics/freecodecamp_basic_alg.png)
+  ![basic data structures](/task_js_basics/freecodecamp_data.png)
+  ![ES6](/task_js_basics/freecodecamp_es6.png)
+  ![Functional programming](/task_js_basics/freecodecamp_func.png)
+  ![intermediate algorithm scripting](/task_js_basics/freecodecamp_int_alg.png)
+
+</details>
+
+## Document Object Model
+
+[Demo](https://ustymchyk.github.io/js-dom/) | [Code base](https://github.com/ustymchyk/js-dom/tree/master)
+
+### JavaScript and the DOM
+
+Information about interfaces and inheritances was helpful. Now I understand, how to correctly find out methods and properties that I need on MDN.
+The difference between textContent and innerText was surprising.
+The performance part was especially interesting(createDocumentFragment was new for me).
+
+### Freecodecamp Algorithm Scripting Challenges
+
+This part was certainly challenging. In this part, I received a lot of new information, like how to find common multiple, convert binary to string, generate primes, etc.
+I think all of this information will be useful in the future.
+
+<details>
+  <summary>
+    Screenshots
+  </summary>
+  
+  ![JavaScript and the DOM](/task_js_dom/udacity_dom.png)
+  ![Intermediate Algorithm Scripting](/task_js_dom/algorithm_int.png)
+
+</details>
+
+## Building a Tiny JS World
+
+[Demo](https://ustymchyk.github.io/a-tiny-JS-world/) | [Code base](https://github.com/ustymchyk/a-tiny-JS-world/tree/populate-world/index.js)
+
+## Object-Oriented JavaScript
+
+[Demo](https://ustymchyk.github.io/frogger/) | [Code base](https://github.com/ustymchyk/frogger)
+
+A lot of information about prototypes were new for me:
+
+- `Object.create()` - i used to use `obj.__proto__` to define prototype chain.
+- 'Function Classes' and 'Prototypal Classes' patterns were new for me and helped me to understand a lot..
+- I`ve read about 'PseudoClassical Subclasses' before but never used it. It was good practice.
+
 <a href="https://www.codewars.com/users/ustymchyk" target="_blank">
   <img src="https://www.codewars.com/users/ustymchyk/badges/large" width="400px" height="40" alt="codewars budget">
 </a>
-<p>I`ve known about prototypes before, but a lot of information was new to me.:</p>
-<ul>
-  <li>Object.create() - i used to use 'obj.__proto__' to define prototype chain.</li>
-  <li>'Function Classes' and 'Prototypal Classes' patterns were new for me and helped me to understand a lot..</li>
-  <li>I`ve read about 'PseudoClassical Subclasses' before but never used it. It was good practice.</li>
-</ul> -->
+
+## OOP exercise
+
+[Demo](https://ustymchyk.github.io/a-tiny-JS-world/) | [Code base](https://github.com/ustymchyk/a-tiny-JS-world)
+
+This part was full of new information for me.
+Topic 'How to explain object-oriented programming concepts to a 6-year-old' is really helpful and gives clear understanding between OOP principles.
+Also DRY, KISS, YAGNI principles was new.
+
+## Memory Pair Game
+
+[Demo](https://ustymchyk.github.io/memory-game/) | [Code base](https://github.com/ustymchyk/memory-game/tree/master)
+
+## Friends App
+
+[Demo](https://ustymchyk.github.io/app/) | [Code base](https://github.com/ustymchyk/app)
